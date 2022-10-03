@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.0a6ec92b.js",
-    "index.html": "/index.html",
-    "main.0a6ec92b.js.map": "/static/js/main.0a6ec92b.js.map"
+    "main.js": "/Meme-Generator/static/js/main.0a6ec92b.js",
+    "index.html": "/Meme-Generator/index.html",
+    "main.0a6ec92b.js.map": "/Meme-Generator/static/js/main.0a6ec92b.js.map"
   },
   "entrypoints": [
     "static/js/main.0a6ec92b.js"
